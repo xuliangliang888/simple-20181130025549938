@@ -2,10 +2,10 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.ibm.test01</groupId>
-  <artifactId>test01cloud</artifactId>
+  <artifactId>simple-20181130025549938</artifactId>
   <packaging>jar</packaging>
   <version>1.0.0</version>
-  <name>test01cloud Maven Webapp</name>
+  <name>simple-20181130025549938 Maven Webapp</name>
   <url>http://maven.apache.org</url>
 	<parent>
 		<groupId>org.springframework.boot</groupId>
@@ -22,7 +22,7 @@
 
 	<dependencies>
 		<dependency>
-			<groupId>com.ibm.db2.jcc</groupId>
+			<groupId>com.ibm.db2.jcc.db2jcc</groupId>
 			<artifactId>db2jcc4</artifactId>
 			<version>10.1</version>
 		</dependency>

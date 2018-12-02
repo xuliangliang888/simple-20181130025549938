@@ -8,7 +8,12 @@
 </head>
 <body>
     <center>
-        <h3> 欢迎董事长 ${name },当前时间：${date } </h3>
+        <h1> 洪氏集团董事长 ${name }</h1>
+        <h2> 洪氏集团CEO 杨丽艳</h2>
+        <h3> 矿业董事长     陈国庆 </h3>
+        <h3> 瓷器业董事长 王韧 </h3>
+        <p>
+        <h4> 当前时间：${date } </h4>
     </center>
 </body>
 </html>
