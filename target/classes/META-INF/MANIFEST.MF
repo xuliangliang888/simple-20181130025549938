@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
-Implementation-Title: test01cloud Maven Webapp
+Implementation-Title: simple-20181130025549938 Maven Webapp
 Implementation-Version: 1.0.0
 Built-By: LiangLiangXu
 Implementation-Vendor-Id: com.ibm.test01
