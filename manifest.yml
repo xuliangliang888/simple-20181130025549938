@@ -1,10 +1,9 @@
+---
 applications:
-- disk_quota: 1024M
-  name: demodra
-  buildpack: sdk-for-nodejs
-  command: node app.js
-  path: .
-  instances: 1
-  memory: 128M
-  env:
-    DIFF_ENV: testing
+- instances: 1
+  timeout: 180
+  name: test01cloud
+  buildpack: java_buildpack
+  path: ./target/test01cloud-1.0.0.jar
+  memory: 1024M
+  host: test01cloud
